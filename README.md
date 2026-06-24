@@ -10,7 +10,7 @@ An end-to-end Business Intelligence project developed in Power BI to analyze his
 
 > Add screenshots of:
 
-* Executive Dashboard
+* Home Page
 * Sales Performance Dashboard
 * Forecasting Dashboard
 

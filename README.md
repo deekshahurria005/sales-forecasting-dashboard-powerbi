@@ -84,9 +84,8 @@ An end-to-end Business Intelligence project developed in Power BI to analyze his
 
 ```
 📁 Sales-Forecasting-Dashboard
-│── Dashboard.pbix
-│── Sales_Data.xlsx
-│── Dashboard_Screenshots/
+│── samsung_global_sales_dataset.csv
+│── sales dashboard/
 │── README.md
 ```
 
